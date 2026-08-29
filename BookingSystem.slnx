@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Booking.API/Booking.API.csproj" />
+  <Project Path="Booking.Application/Booking.Application.csproj" />
+  <Project Path="Booking.Core/Booking.Core.csproj" />
+  <Project Path="Booking.DataAccess.Postgres/Booking.DataAccess.Postgres.csproj" />
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+</Solution>
