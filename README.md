@@ -5,7 +5,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Success?style=for-the-badge)
 
-RESTful API для управління конференц-залами, бронюваннями та розрахунку вартості оренди з урахуванням динамічних часових зон. Розроблено як тестове завдання з дотриманням принципів **Clean Architecture**, **SOLID** та **Domain-Driven Design (DDD)**.
+RESTful API для управління конференц-залами, бронюваннями та розрахунку вартості оренди з урахуванням динамічних часових зон. Розроблено як архітектурний проєкт для демонстрації принципів **Clean Architecture**, **SOLID** та **Domain-Driven Design (DDD)**.
 
 ## 🛠 Стек технологій
 - **Мова та фреймворк:** C#, .NET 10, ASP.NET Core Web API
